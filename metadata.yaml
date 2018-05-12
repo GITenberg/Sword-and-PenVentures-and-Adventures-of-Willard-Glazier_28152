@@ -1,0 +1,27 @@
+_repo: Sword-and-PenVentures-and-Adventures-of-Willard-Glazier_28152
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Owens, John Algernon
+    gutenberg_agent_id: '33165'
+    url: http://www.gutenberg.org/2009/agents/33165
+description: ''
+gutenberg_issued: '2009-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28152'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'Glazier, Willard W., 1841-1905'
+title: 'Sword and Pen
+
+  Ventures and Adventures of Willard Glazier'
+url: http://www.gutenberg.org/ebooks/28152
