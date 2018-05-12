@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '33165'
     url: http://www.gutenberg.org/2009/agents/33165
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28152#Sword-and-PenVentures-and-Adventures-of-Willard-Glazier
 gutenberg_issued: '2009-02-21'
 gutenberg_type: Text
 identifiers:
